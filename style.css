@@ -1,16 +1,16 @@
 
 
-h1 { color : red }
+h1 { color : black }
 html{
     border: solid;
 }
 
 body {
-    border: 15px solid rgb(253, 253, 253);
+    border: 14px solid rgb(253, 253, 253);
     }
 
 h3.border {
-    margin: 35px;
+    margin: 24px;
     }
 
 h2 {
@@ -39,14 +39,14 @@ body {
     }
 
 h3.border {
-    margin: 35px;
+    margin: 24px;
     }
 
 h2 {
-    margin: 25px;
+    margin: 35px;
     }
 h3 {
-    margin: 25px;
+    margin: 24px;
     line-height: normal;
     }
 h4{
@@ -61,7 +61,7 @@ p{
     margin:35px;
 }
 
-<h1 style="color:blue;">A Blue Heading</h1>
+<h1 style="color:green;">A red Heading</h1>
  ma
 
-<p style="color:red;">A red paragraph.</p>
+<p style="color:yellow;">A red paragraph.</p>
